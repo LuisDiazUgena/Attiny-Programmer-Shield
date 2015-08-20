@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Thu 19 Feb 2015 10:03:00 CET
+
+BeginCmp
+TimeStamp = /54DB4363;
+Reference = C1;
+ValeurCmp = CAP;
+IdModule  = Cap_troughHole;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CB811C;
+Reference = J1;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CB80BA;
+Reference = J2;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB3D80;
+Reference = J3;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB3D86;
+Reference = J4;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B547;
+Reference = J5;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B540;
+Reference = J6;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B557;
+Reference = J7;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B550;
+Reference = J8;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B693;
+Reference = J9;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E1B68D;
+Reference = J10;
+ValeurCmp = CON_HEADER_1X01-PTH;
+IdModule  = dp_devices-M1X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB1498;
+Reference = LED1;
+ValeurCmp = HB;
+IdModule  = Led_3mm_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB147C;
+Reference = LED2;
+ValeurCmp = Error;
+IdModule  = Led_3mm_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB1460;
+Reference = LED3;
+ValeurCmp = Prog;
+IdModule  = Led_3mm_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4C514;
+Reference = LED4;
+ValeurCmp = ON;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB4160;
+Reference = R1;
+ValeurCmp = RESISTOR-PTH-0.4;
+IdModule  = dp_devices-RTH025W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB415A;
+Reference = R2;
+ValeurCmp = RESISTOR-PTH-0.4;
+IdModule  = dp_devices-RTH025W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB4143;
+Reference = R3;
+ValeurCmp = RESISTOR-PTH-0.4;
+IdModule  = dp_devices-RTH025W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4C51A;
+Reference = R4;
+ValeurCmp = RESISTOR-PTH-0.4;
+IdModule  = dp_devices-RTH025W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4C47A;
+Reference = R5;
+ValeurCmp = RESISTOR-PTH-0.4;
+IdModule  = dp_devices-RTH025W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CB3EE3;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E4C2B0;
+Reference = SW1;
+ValeurCmp = SWITCH;
+IdModule  = swdip3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CB94AC;
+Reference = U1;
+ValeurCmp = ATTINY24-44-84/DIP-SO;
+IdModule  = DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CB3D03;
+Reference = U2;
+ValeurCmp = ATTINY25-45-85/DIP-SO;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe

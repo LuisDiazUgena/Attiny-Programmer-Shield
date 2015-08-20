@@ -1,0 +1,56 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Wed 25 Feb 2015 17:19:36 CET
+#Cmp ( order = Reference )
+| C1         CAP         
+| J1         CON_HEADER_1X01-PTH
+| J2         CON_HEADER_1X01-PTH
+| J3         CON_HEADER_1X01-PTH
+| J4         CON_HEADER_1X01-PTH
+| J5         CON_HEADER_1X01-PTH
+| J6         CON_HEADER_1X01-PTH
+| J7         CON_HEADER_1X01-PTH
+| J8         CON_HEADER_1X01-PTH
+| J9         CON_HEADER_1X01-PTH
+| J10        CON_HEADER_1X01-PTH
+| LED1       HB          
+| LED2       Error       
+| LED3       Prog        
+| LED4       ON          
+| R1         330         
+| R2         330         
+| R3         330         
+| R4         330         
+| R5         RESISTOR-PTH-0.4
+| SHIELD1    ARDUINO_SHIELD
+| SW1        SWITCH      
+| U1         ATTINY24-44-84/DIP-SO
+| U2         ATTINY25-45-85/DIP-SO
+#End Cmp
+
+#Cmp ( order = Value )
+| CAP          C1        
+| CON_HEADER_1X01-PTH J1        
+| CON_HEADER_1X01-PTH J2        
+| CON_HEADER_1X01-PTH J3        
+| CON_HEADER_1X01-PTH J4        
+| CON_HEADER_1X01-PTH J5        
+| CON_HEADER_1X01-PTH J6        
+| CON_HEADER_1X01-PTH J7        
+| CON_HEADER_1X01-PTH J8        
+| CON_HEADER_1X01-PTH J9        
+| CON_HEADER_1X01-PTH J10       
+| HB           LED1      
+| Error        LED2      
+| Prog         LED3      
+| ON           LED4      
+| 330          R1        
+| 330          R2        
+| 330          R3        
+| 330          R4        
+| RESISTOR-PTH-0.4 R5        
+| ARDUINO_SHIELD SHIELD1   
+| SWITCH       SW1       
+| ATTINY24-44-84/DIP-SO U1        
+| ATTINY25-45-85/DIP-SO U2        
+#End Cmp
+
+#End List
